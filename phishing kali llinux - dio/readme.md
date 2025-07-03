@@ -15,7 +15,7 @@
 - [3] Custom Import
 
   Eu utilizei uma página personalizada de login do facebook, que criei em /var/www/html/index.php
-  ![Alt text](./"criando_pagina.png" "Optional title")
+  <img src="criando_pagina.png">
 
 - Obtendo o endereço da máquina: ``` ip a ```
 
