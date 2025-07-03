@@ -18,6 +18,7 @@
   <img src="criando_pagina.png">
 
 outras imagens interessantes:
+<br>
   <img src="output_informacoes.png">
   <img src="pagina_final.png">
 
